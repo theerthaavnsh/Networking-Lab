@@ -1,4 +1,4 @@
-#Create a simulator object
+#Create a simulator objects
 set ns [new Simulator]
 #Open the nam trace file
 set nf [open s1.nam w]
